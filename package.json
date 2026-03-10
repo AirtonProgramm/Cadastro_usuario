@@ -1,0 +1,25 @@
+{
+  "name": "cadastro_usuario",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirtonProgramm/Cadastro_usuario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirtonProgramm/Cadastro_usuario/issues"
+  },
+  "homepage": "https://github.com/AirtonProgramm/Cadastro_usuario#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
